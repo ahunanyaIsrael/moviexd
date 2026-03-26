@@ -5,6 +5,7 @@ A modern movie/TV browsing and streaming frontend built with React, Vite, Tailwi
 ## 🚀 Project Overview
 
 `moviexd` is a frontend app for searching and viewing movies and series, with features like:
+
 - Home page with popular & trending content
 - Movies and TV routes
 - Search input and results
@@ -47,6 +48,7 @@ A modern movie/TV browsing and streaming frontend built with React, Vite, Tailwi
 ## 🔗 API Integration
 
 Configure `src/utilities/api.js` with your preferred provider (e.g., TMDB). Ensure the API supports:
+
 - movie/series list endpoints
 - search endpoints
 - item detail endpoints
@@ -60,4 +62,3 @@ Configure `src/utilities/api.js` with your preferred provider (e.g., TMDB). Ensu
 ## 📌 License
 
 MIT
-
